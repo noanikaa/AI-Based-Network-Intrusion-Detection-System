@@ -1,0 +1,24 @@
+﻿python                             3.6
+imutils                 0.5.2
+ipython                 7.9.0
+Keras                   2.2.4               
+Keras-Applications      1.0.8               
+Keras-Preprocessing     1.1.0                             
+matplotlib              3.1.2              
+numpy                   1.17.4            
+RandomForestClassifier  3.2.4.3.1
+KDDCUP-99  dataset 
+pandas                  0.24.2                       
+pip                     19.3.1              
+Tkinter                8.6           
+pyparsing               2.4.6               
+scikit-learn            0.20.2              
+scipy                   1.2.0  
+MS Excel            16             
+sklearn                 0.0                 
+spyder                  3.2.6               
+tensorboard             1.8.0               
+tensorflow-estimator    1.13.0              
+tensorflow-gpu          1.8.0               
+tensorflow-hub          0.6.0                
+Dataset link- http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
